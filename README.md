@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Victorralp/Victorralp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🔭 I’m currently working on<br>. A Todo app that has a slidable delete and i also implemented a the hive as a storage function.<br>👯 I’m looking to collaborate on Innovative Android apps that push the boundaries of material design<br>Open-source Android libraries for common app functionalities<br>Android apps that leverage the latest Jetpack components<br>High-performance Android games using native development<br>Android apps that integrate with emerging technologies like AR or IoT<br>🤝 I’m looking for help with <br>.Optimizing Android app performance and reducing battery consumption<br>.Implementing effective testing strategies for Android apps (unit, UI, and integration tests)<br>.Designing scalable architecture for complex Android applications<br>.Securing Android apps against common vulnerabilities<br>.Improving accessibility features in Android apps<br>🌱 I’m currently learning <br>.Android app modularization techniques for better scalability<br>.Machine learning integration in Android apps using TensorFlow Lite<br>.Advanced Android graphics and animations using OpenGL ES<br>💬 Ask me about <br>.Best practices for Android app architecture (MVVM, Clean Architecture)<br>.Strategies for responsive UI design across various Android devices<br>.Efficient data persistence techniques in Android (Room, SQLite)<br>.Android app deployment and continuous integration/delivery (CI/CD) pipelines<br>.Optimizing Android apps for different screen sizes and orientations<br>⚡ Fun fact<br>.I created an Android app that helps visually impaired users navigate public spaces, which is now used in several smart cities<br>.My first Android app, built when I was 16, is still actively used by my local community for coordinating volunteer activities
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Victorralp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Victorralp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorralp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Victorralp&icon=5&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
